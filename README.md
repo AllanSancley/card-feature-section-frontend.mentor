@@ -17,8 +17,8 @@ This challenge from the website frontendmentor.io consists of building a four-ca
 
 ### Screenshot
 
-- [Desktop](screenshot-desktop.png)
-- [Mobile](screenshot-mobile.png)
+screenshot-desktop.png
+screenshot-mobile.png
 
 ### Links
 
