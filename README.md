@@ -17,13 +17,13 @@ This challenge from the website frontendmentor.io consists of building a four-ca
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![Desktop](captura de tela-desktop.png)
+![Mobile](captura de tela-mobile.png)
 
 ### Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/AllanSancley/card-feature-section-frontend.mentor.git)
+- [Live Site](https://card-feature-section-frontend-mentor.netlify.app/)
 
 ## My process
 
